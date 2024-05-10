@@ -1,0 +1,14 @@
+{
+  "sdkName": "liblab.NSwagSample",
+  "specFilePath": "./src/openapi.json",
+  "languages": [
+    "csharp"
+  ],
+  "languageOptions": {
+    "csharp": {
+      "packageId": "liblab.NSwagSample",
+      "sdkVersion": "1.0.0",
+      "liblabVersion": "2"
+    }
+  }
+}
